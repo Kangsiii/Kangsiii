@@ -31,5 +31,5 @@ React와 NodeJS에 관심이 많습니다!
 
 ## 🧑‍💻 My Blog 🧑‍💻
 <br>
- <a href='https://kangsii.tistory.com/'><img alt="tistoryblog" src="http://img.shields.io/badge/-Tistory-orange?style=flat&logo=Tistory&link=https://kangsii.tistory.com/" /></a>
+ <a href='https://kangsii.tistory.com/' target='_blank'><img alt="tistoryblog" src="http://img.shields.io/badge/-Tistory-orange?style=flat&logo=Tistory&link=https://kangsii.tistory.com/" /></a>
 </div>
