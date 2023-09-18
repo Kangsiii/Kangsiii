@@ -5,9 +5,8 @@
 안녕하세요! 자바스크립트 및 리액트 주니어 개발자 이광식입니다.<br>
 React와 NodeJS에 관심이 많습니다!
 
-<br><br>
-##  📧Email📧 
-<br>lks405jj@naver.com
+<br>
+
 
 
 
@@ -29,4 +28,8 @@ React와 NodeJS에 관심이 많습니다!
 <img src="https://github-readme-stats.vercel.app/api?username=Kangsiii&theme=gruvbox_light&show_icons=true"/></a>
 
 
+
+## 🧑‍💻 My Blog 🧑‍💻
+<br>
+ <img alt="tistoryblog" src="http://img.shields.io/badge/-Tistory-orange?style=flat&logo=Tistory&link=https://kangsii.tistory.com/"/>
 </div>
