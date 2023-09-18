@@ -10,7 +10,7 @@ React와 NodeJS에 관심이 많습니다!
 
 
 
-## :pushpin: Used tools &  Skill :pushpin:
+## 📘 Tech Stack ♫ 📘
 <br>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> 
 <img alt="html" src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> 
