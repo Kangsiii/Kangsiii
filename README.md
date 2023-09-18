@@ -1,8 +1,8 @@
 <div align=center>
 
-## :running: Introduction :running:
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-안녕하세요! 자바스크립트 및 리액트 주니어 개발자 이광식입니다.<br>
+## 🤹‍♂️ Introduction 🤹‍♂️
+안녕하세요! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+자바스크립트 및 리액트 주니어 개발자 이광식입니다.<br>
 React와 NodeJS에 관심이 많습니다!
 
 <br>
@@ -31,5 +31,5 @@ React와 NodeJS에 관심이 많습니다!
 
 ## 🧑‍💻 My Blog 🧑‍💻
 <br>
- <img alt="tistoryblog" src="http://img.shields.io/badge/-Tistory-orange?style=flat&logo=Tistory&link=https://kangsii.tistory.com/"/>https://kangsii.tistory.com/
+ <a href='https://kangsii.tistory.com/'><img alt="tistoryblog" src="http://img.shields.io/badge/-Tistory-orange?style=flat&logo=Tistory&link=https://kangsii.tistory.com/" /></a>
 </div>
