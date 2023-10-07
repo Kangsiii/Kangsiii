@@ -31,7 +31,7 @@ React와 NodeJS에 관심이 많습니다!
 
 ## 🧑‍💻 My Blog 🧑‍💻
 <br>
-<a href='https://skitter-selenium-bda.notion.site/22e88981d2cf4b89b9b926d631f6b7b4' target='_blank'><img alt="Notion" src="http://img.shields.io/badge/-notion-notion?style=flat&logo=notion&link=https://skitter-selenium-bda.notion.site/22e88981d2cf4b89b9b926d631f6b7b4" /></a>
+<a href='https://skitter-selenium-bda.notion.site/22e88981d2cf4b89b9b926d631f6b7b4' target='_blank'><img alt="Notion" src="http://img.shields.io/badge/-notion-Notion?style=flat&logo=notion&link=https://skitter-selenium-bda.notion.site/22e88981d2cf4b89b9b926d631f6b7b4" /></a>
 <br><br>
  <a href='https://kangsii.tistory.com/' target='_blank'><img alt="tistoryblog" src="http://img.shields.io/badge/-Tistory-orange?style=flat&logo=Tistory&link=https://kangsii.tistory.com/" /></a>
  
